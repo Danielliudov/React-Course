@@ -1,0 +1,15 @@
+.tagline{
+  min-height: 100px;
+  max-width: 500px;
+  background-color: aqua;
+}
+.posts-page{
+  margin-left: 20px;
+
+}
+.title{
+  margin-left: 200px;
+}
+.posts-title{
+  margin-left: 190px;
+}
